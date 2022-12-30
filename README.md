@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @site-page-test
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on your site for free
+- 💞️ I will collaborate on your site for free
 - 📫 How to reach me i will mention email soon.
 
 <!---
