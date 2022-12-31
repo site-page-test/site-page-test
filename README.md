@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @site-page-tester and developer.
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m web developer and tester.
+- 👀 I’m interested in web development and debugging 
+- 🌱 I’m currently learning from scratch.
 - 💞️ I will collaborate on your site for free
-- 📫 How to reach me i will mention email soon.
+- 📫 You can email me.
 
 <!---
 site-page-test/site-page-test is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
