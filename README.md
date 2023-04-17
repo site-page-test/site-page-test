@@ -1,4 +1,4 @@
-- 👋 Hi, I’m web developer and tester.
+- 👋 Hi, I’m fullstack web developer and tester,UI and UX designer.
 - 👀 I’m interested in web development and debugging 
 - 🌱 I’m currently learning from scratch.
 - 💞️ I will collaborate on your site for free
